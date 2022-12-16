@@ -1,36 +1,30 @@
-/* display background color black on navbar scroll */
+* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: black;
+    background-color: rgb(221, 0, 0);
 }
 
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('is-that-hell-indonesia-skies-turn-blood-red-due-to-forest-fi_zbj9.jpg');
     background-size:cover;
     position:relative;
 }
-/* text css above hero image*/
+
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 4.1;
 }
 .hero_desc {
-    font-size: 2rem;
+    font-size: 2;
 }
 .hero-text {
     text-align: center;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
-    color: rgb(0, 0, 0);
-}
-
-/* spacing on all sections */
-/* #about, #services, #portfolio, #contact {
-    margin-top: 4rem;
-    padding-top: 4rem;
-} */
+    color: rgb(255, 0, 0);
+}=
+ */
 #contact {
     padding-bottom: 4rem;
 }
@@ -64,9 +58,7 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: #00f200;
-}
+
 .fab {
     color: #717171;
 }
@@ -79,5 +71,5 @@
     flex-wrap: wrap;
   }
   section {
-    background-image: url("images/images");
+    background-image: url("games-time-neon-text-with-gamepad_1262-15457.webp");
        }
